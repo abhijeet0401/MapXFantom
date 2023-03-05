@@ -17,7 +17,7 @@ a)The outbreak of the COVID-19 pandemic has devastated businesses worldwide. The
 
 <img src='./screenshot/map.jpg' />
 
-<img src='./screenshot/prt1Home_page.png' />
+<img src='./screenshot/prot1Home_page.png' />
 
 ## Solution
 
