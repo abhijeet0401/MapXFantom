@@ -42,13 +42,25 @@ b)This serves as a marketing tool for businesses to drive foot traffic while pro
 
 
 
+## Why Fantom
 <img src='./screenshot/fantom-logo-white.png' />
 
-## Why Celo
+Fantom is a fast, high-throughput open-source smart contract platform for digital assets and dApps.
+Why Fantom
+Speed, security, scalability
+Fantom’s aBFT consensus protocol delivers unparalleled speed, security, and reliability.
+Enjoy almost instant transactions and extremely low fees.
+• Almost instant transfers
+Transactions on Fantom are finalized in a second and cost a fraction of a cent.
+• Simply secure
+Fantom’s validator nodes form a global, trustless, and leaderless Proof-of-Stake network.
+• Highly scalable
+Fantom can process thousands of transactions per seconds and scale to thousands of nodes.
+• Ethereum compatible
+Fantom is EVM compatible. Deploy and run your Ethereum dApps on Fantom.
 
-Celo is one of the most viable blockchain available in the market. First-generation blockchains such as Bitcoin paved the way for the industry. However, they did not create a functional environment for developing complex smart contract-based financial solutions. Second-generation blockchains such as Ethereum introduced smart contract capabilities. However, they suffer from significant scalability issues, resulting in network congestion and high transaction fees for users.
 
-On the other hand, Tezos is a third-generation blockchain that combines the former’s properties and has evolved to solve this issue.
+
 
 
 
