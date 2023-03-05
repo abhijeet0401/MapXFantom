@@ -17,7 +17,7 @@ a)The outbreak of the COVID-19 pandemic has devastated businesses worldwide. The
 
 <img src='./screenshot/map.jpg' />
 
-<img src='./screenshot/proto.jpg' />
+<img src='./screenshot/prot1Home_page.png' />
 
 ## Solution
 
@@ -35,14 +35,14 @@ a)These NFTs can be in the form of vouchers from retail businesses such as resta
 
 b)This serves as a marketing tool for businesses to drive foot traffic while promoting health and wellness.
 
-<img src='./screenshot/location.png' />
+<img src='./screenshot/prot2Login_page.png' />
 
 <img src='./screenshot/voucher.png' />
 
 
 
 
-<img src='./screenshot/celo1.jpg' />
+<img src='./screenshot/fantom-logo-white.png' />
 
 ## Why Celo
 
@@ -59,10 +59,10 @@ On the other hand, Tezos is a third-generation blockchain that combines the form
 
 
 ## How to Install 
-1) Download the apk file [MAPX](https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing) https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing and install in your android phone 
+1) Download the apk file [MAPX](https://drive.google.com/file/d/1RwEGexPXcsOhKOIMxq-VxP0WsHPZkOId/view?usp=sharing) https://drive.google.com/file/d/1RwEGexPXcsOhKOIMxq-VxP0WsHPZkOId/view?usp=sharing and install in your android phone 
 
 2) Catch all the NFTs
 
-<img src='./screenshot/proto1.jpg' />
+<img src='./screenshot/prot3minted.png' />
 
 ## Special thanks to Celo Team for their support 
