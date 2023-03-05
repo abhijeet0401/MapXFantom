@@ -84,4 +84,4 @@ Fantom is EVM compatible. Deploy and run your Ethereum dApps on Fantom.
 
 <img src='./screenshot/prot3minted.png' />
 
-## Special thanks to Celo Team for their support 
+## Special thanks to Fantom Team for their support 
