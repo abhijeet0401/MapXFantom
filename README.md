@@ -67,7 +67,8 @@ Fantom can process thousands of transactions per seconds and scale to thousands 
 Fantom is EVM compatible. Deploy and run your Ethereum dApps on Fantom.
 
 
-
+## You can see our contracts Here
+(https://testnet.ftmscan.com/address/0x0Cb2800fB69669C8C02820276282BFAd0f98e6Bc)
 
 
 
@@ -85,3 +86,6 @@ Fantom is EVM compatible. Deploy and run your Ethereum dApps on Fantom.
 <img src='./screenshot/prot3minted.png' />
 
 ## Special thanks to Fantom Team for their support 
+
+
+
